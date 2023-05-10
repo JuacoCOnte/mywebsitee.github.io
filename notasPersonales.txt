@@ -1,0 +1,20 @@
+Proxima seccion de programacion:
+            Crear el Footer.
+            Establecer parametros y links para mobilizar la web.
+            Utilizar iconos para mejorar la interfaz de usuario.
+            Crear PDF con mayor informacion de los certificados
+
+Ideas a desarrollar:
+            Organizar como empezar con Ouroboros.
+            Empezar a organizar colgados (Estudiar React Native).
+            Diseño animado de Ouroboros.            
+
+
+
+            <img autoplay loop muted>
+                                <source src="path/to/video1.mp4" type="video/mp4">
+                            </video>
+
+
+
+                            

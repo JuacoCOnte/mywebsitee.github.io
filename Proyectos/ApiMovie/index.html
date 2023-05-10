@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="/Proyectos/ApiMovie/style.css">
+	<title>Api de peliculas</title>
+</head>
+<body>
+	<!-- Loader -->
+    <div id="loader-wrapper">
+        <div id="loader">
+            <img class="img-png" src="/GIFs/107363-block-abstract.gif" alt="">
+        </div>
+    </div>
+    <!-- Boton de Inicio -->
+    <button onclick="window.location.href='/index.html'" class="btn btn-primary">Inicio </button>
+
+
+	<h1 class="populares">Peliculas populares</h1>
+	<div class="contenedor" id="contenedor"></div>
+
+	<div class="paginacion">
+		<button id="btnAnterior">Anterior</button>
+		<button id="btnSiguiente">Siguiente</button>
+	</div>
+
+	<script src="/Proyectos/ApiMovie/script.js"></script>
+</body>
+</html>
